@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 My name is Sergey!
+
+### I am Data Analyst.
+### 🔭 I am looking for grate team to create smthg special
 
 <!--
 **SToboev/SToboev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
